@@ -1,4 +1,4 @@
-# StockAI-Aramco 📈
+# StockAI-Aramco 
 
 An AI-powered stock decision system that combines **LSTM deep learning** with **real-time news sentiment analysis** (FinBERT) to predict Saudi Aramco (2222.SR) stock price movements and generate actionable trading recommendations.
 
